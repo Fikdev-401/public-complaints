@@ -5,6 +5,13 @@ Proyek **Pengaduan Masyarakat** adalah sebuah aplikasi berbasis web yang memungk
 **Note**
 Aplikasi masih tahap pengembangan
 
+## Screenshot
+
+Berikut adalah beberapa tampilan dari aplikasi **Pengaduan Masyarakat**:
+
+### Welcome Page
+![Welcome Page](public/screenshots/welcome.jpeg)
+
 ## Persyaratan Sistem
 
 - PHP >= 8.0
